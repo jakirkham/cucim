@@ -81,6 +81,7 @@ dependencies:
               - libnvjpeg=11.6.0.55
               - libnvjpeg-dev=11.6.0.55
           - matrix:
+              arch: x86_64
               cuda: "12.0"
             packages:
               - cuda-version=12.0
